@@ -8,4 +8,5 @@ I'm a first-year Computer Science student at Carleton University, excited to lea
 - **Email:** dhrutigandhi.05@gmail.com
 
 ## 💻 Tech:
-- **Languages:** Python, Java
+- **Languages:** Python, Java, HTML, CSS, JavaScript, SQL
+- **Developer Tools:** Notepad++, Intellij IDEA, Visual Studio, Microsoft Azure
