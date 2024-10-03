@@ -1,7 +1,7 @@
 # Hi there, I'm Dhruti Gandhi 👋
 
 ## 💫 About Me:
-I'm a first-year Computer Science student at Carleton University, excited to learn about artificial intelligence, machine learning and building new and unique projects.
+I'm a second-year Computer Science student at Carleton University, excited to learn about artificial intelligence, machine learning and building new and unique projects.
 
 ## 🔗 Connect with Me:
 - **LinkedIn:** https://linkedin.com/in/dhruti-gandhi-399900297
