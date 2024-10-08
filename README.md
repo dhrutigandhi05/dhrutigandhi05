@@ -9,4 +9,4 @@ I'm a second-year Computer Science student at Carleton University, excited to le
 
 ## 💻 Tech:
 - **Languages:** Python, SQL, C, Java, JavaScript, TypeScript, HTML/CSS
-- **Developer Skills:** MySQL, Microsoft Azure, PostgreSQL, React.js, Git, AWS, Node.jsd
+- **Developer Skills:** MySQL, Microsoft Azure, PostgreSQL, React.js, Git, AWS, Node.js
