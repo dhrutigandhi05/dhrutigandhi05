@@ -8,5 +8,5 @@ I'm a second-year Computer Science student at Carleton University, excited to le
 - **Email:** dhrutigandhi.05@gmail.com
 
 ## 💻 Tech:
-- **Languages:** Python, Java, C, TypeScript, HTML, CSS, JavaScript, SQL
-- **Developer Tools:** Notepad++, Intellij IDEA, Visual Studio, Microsoft Azure, MySQL, PostgreSQL, Toad
+- **Languages:** Python, SQL, C, Java, JavaScript, TypeScript, HTML/CSS
+- **Developer Skills:** MySQL, Microsoft Azure, PostgreSQL, React.js, Git, AWS, Node.jsd
