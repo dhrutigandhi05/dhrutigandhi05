@@ -3,6 +3,9 @@
 ## 💫 About Me:
 I'm a second-year Computer Science student at Carleton University, excited to learn about artificial intelligence, machine learning and building new and unique projects.
 
+## Professional Experience
+- Prev at CIBC as a Software Developer Intern
+
 ## 🔗 Connect with Me:
 - **LinkedIn:** https://linkedin.com/in/dhruti-gandhi-399900297
 - **Email:** dhrutigandhi.05@gmail.com
