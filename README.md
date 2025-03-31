@@ -13,5 +13,5 @@ I'm a second-year Computer Science student at Carleton University, excited to le
 ## 💻 Tech:
 - **Cloud Platforms:** AWS, Microsoft Azure
 - **Frameworks/Tools:** React, Express, Git, Node.js, TailwindCSS, RESTful Web API, FastAPI, SPSS
-- **Databases:** MySQL, PostgreSQL, AWS DynamoDB, MongoDB
+- **Databases:** MySQL, PostgreSQL, AWS DynamoDB, MongoDB, SQLite
 - **Languages:** Python, SQL, C/C++, Java, JavaScript, TypeScript, HTML/CSS
