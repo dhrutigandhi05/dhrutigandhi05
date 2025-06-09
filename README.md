@@ -1,7 +1,7 @@
 # Hi there, I'm Dhruti Gandhi 👋
 
 ## 💫 About Me:
-I'm a second-year Computer Science student at Carleton University, excited to learn about artificial intelligence, machine learning and building new and unique projects.
+I'm a third-year Computer Science student at Carleton University, excited to learn about artificial intelligence, machine learning and building new and unique projects.
 
 ## Professional Experience
 - Prev at CIBC as a Software Developer Intern
@@ -13,5 +13,5 @@ I'm a second-year Computer Science student at Carleton University, excited to le
 ## 💻 Tech:
 - **Cloud Platforms:** AWS, Microsoft Azure
 - **Frameworks/Tools:** React, Express, Git, Node.js, TailwindCSS, RESTful Web API, FastAPI, SPSS
-- **Databases:** MySQL, PostgreSQL, AWS DynamoDB, MongoDB, SQLite
+- **Databases:** MySQL, PostgreSQL, AWS DynamoDB, MongoDB, SQLite, Oracle
 - **Languages:** Python, SQL, C/C++, Java, JavaScript, TypeScript, HTML/CSS
