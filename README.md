@@ -4,7 +4,8 @@
 I'm a third-year Computer Science student at Carleton University, excited to learn about artificial intelligence, machine learning and building new and unique projects.
 
 ## Professional Experience
-- Prev at CIBC as a Software Developer Intern
+- Data Enginner Co-op at Statistics Canada
+- Previous Software Developer Co-op at CIBC
 
 ## 🔗 Connect with Me:
 - **LinkedIn:** https://linkedin.com/in/dhruti-gandhi-399900297
