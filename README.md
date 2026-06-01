@@ -13,6 +13,6 @@ I'm a third-year Computer Science student at Carleton University, excited to lea
 
 ## 💻 Tech:
 - **Cloud Platforms:** AWS, Microsoft Azure, Oracle
-- **Frameworks/Tools:** React, Express, Git, Docker, Databricks, Ansible, Node.js, Github Actions, RESTful Web API, FastAPI, SPSS, QTCreator
-- **Databases:**  MySQL, PostgreSQL, AWS DynamoDB, MongoDB, SQLite
+- **Frameworks/Tools:** React, Express, Git, Docker, Databricks, Ansible, Node.js, Github Actions, RESTful Web API, FastAPI, SPSS, QTCreator, Quart
+- **Databases:**  MySQL, PostgreSQL, AWS DynamoDB, MongoDB, SQLite, CosmosDB
 - **Languages:** Python, SQL, C/C++, Java, JavaScript, TypeScript, HTML/CSS, Haskell, Prolog
