@@ -10,6 +10,7 @@ I'm a third-year Computer Science student at Carleton University, excited to lea
 ## 🔗 Connect with Me:
 - **LinkedIn:** https://linkedin.com/in/dhruti-gandhi-399900297
 - **Email:** dhrutigandhi.05@gmail.com
+- **Personal Portfolio:** https://dhrutigandhi.netlify.app
 
 ## 💻 Tech:
 - **Cloud Platforms:** AWS, Microsoft Azure, Oracle
